@@ -18,11 +18,11 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "esModuleInterop": true,
-    "outDir": "dist",
+    "outDir": "dist"
   },
   "include": [
     "scripts",
     "src",
-    "tests",
+    "tests"
   ]
 }
